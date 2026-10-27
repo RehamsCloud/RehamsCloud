@@ -1,3 +1,19 @@
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/0fe32295-d593-4875-8833-397763995406" width="140" alt="Avatar GIF" />
+      </a>
+    </td>
+    <td align="left" width="75%">
+      <a href="#">
+        <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=20&duration=2000&pause=300&color=eb92ce&center=false&vCenter=true&multiline=true&repeat=false&killAnimation=true&width=550&height=90&lines=Hi+there+%E2%9C%A8;I'm+Reham+Wan+Deraman%2C+blending+logic+%26+creativity;Computer+Science+Student+%E2%80%A2+Future+Backend+Developer" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!---
 <table border="0">
   <tr>
     <td valign="center" width="20%">
@@ -12,6 +28,7 @@
     </td>
   </tr>
 </table>
+-->
 
 ---
 <h3>👩🏻‍💻 About Me</h3>
