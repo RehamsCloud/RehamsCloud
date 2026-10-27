@@ -29,6 +29,9 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" width="40" height="40" alt="Java" title="Java" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="40" height="40" alt="SQL" title="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Scene Builder / JavaFX" title="Scene Builder & JavaFX" />
+</p>
+
+<!---
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" height="40" alt="Git" title="Git" />
   <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/icons/github.png" width="40" height="40" alt="GitHub" title="GitHub" />
-</p>
+>
